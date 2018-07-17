@@ -1,0 +1,6 @@
+framework module MGVideo {
+  umbrella header "MGVideo.h"
+
+  export *
+  module * { export * }
+}
