@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "jiajiguang" => "877029769@qq.com" }
   s.source       = { :git => "https://github.com/jiajiguang/PodPractise.git", :tag => s.version.to_s }
-  s.source_files = "UploadCoCoapods/*"
+  s.source_files = "PodPractise/*"
   s.ios.deployment_target = '8.0'
 
 end
